@@ -1,0 +1,12 @@
+---
+:id: 377106727
+:submitters:
+- :name: RENAD ALQAHTANI
+  :email: s202169930@kfupm.edu.sa
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2025-12-10 20:12:33.809423000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2025-12-10 12:12:33.809423000 Z
+:status: processed
+:score: 109.0
